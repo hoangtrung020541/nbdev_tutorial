@@ -1,0 +1,7 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_How_To_Use_nbdev.ipynb
+      - 01_Directives.ipynb
+      - 02_test.ipynb

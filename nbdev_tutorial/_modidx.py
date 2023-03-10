@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://hoangtrung020541.github.io',
                 'git_url': 'https://github.com/hoangtrung020541/nbdev_tutorial',
                 'lib_path': 'nbdev_tutorial'},
-  'syms': {'nbdev_tutorial.core': {'nbdev_tutorial.core.foo': ('core.html#foo', 'nbdev_tutorial/core.py')}}}
+  'syms': {'nbdev_tutorial.test': {'nbdev_tutorial.test.test': ('test.html#test', 'nbdev_tutorial/test.py')}}}
