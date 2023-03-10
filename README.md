@@ -24,12 +24,15 @@ code các file Python. Đó là lý do tại sao [nbdev](https://nbdev.fast.ai)
 ra đời và đến giải cứu bạn.
 
 Nbdev là một battery-ready notebook development platform, được xây dựng
-trên [Quarto](https://quarto.org) platform. Nó cho phép: - Đồng bộ giữa
-file `.ipynb` và file `.py` - Tạo nhanh document sử dụng
-[markdown](https://www.markdownguide.org) (\*) trong khi develop -
-Publish package của bạn trên PyPI hoặc Conda - [Continuous
+trên [Quarto](https://quarto.org) platform. Nó cho phép:  
+- Đồng bộ giữa file `.ipynb` và file `.py`  
+- Tạo nhanh document sử dụng [markdown](https://www.markdownguide.org)
+(\*) trong khi develop  
+- Publish package của bạn trên PyPI hoặc Conda  
+- [Continuous
 Integration](https://www.youtube.com/watch?v=8aV5AxJrHDg&list=PLZMWkkQEwOPmGolqJPsAm_4fcBDDc2to_)
-với git và chạy trên git page - Test, code, document ở một nơi
+với git và chạy trên git page  
+- Test, code, document ở một nơi
 
 (\*) Markdown thường được sử dụng trong github repo với tên `readme.md`,
 để tìm hiểu thêm về Markdown hãy truy cập [Markdown
