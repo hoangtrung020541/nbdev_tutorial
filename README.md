@@ -12,6 +12,8 @@ minutes](https://www.youtube.com/watch?v=l7zS8Ld4_iA)
 
 [![](https://i.ytimg.com/vi/l7zS8Ld4_iA/sddefault.jpg)](https://www.youtube.com/watch?v=l7zS8Ld4_iA)
 
+nbdev tutorial – zero to published project in 90 minutes
+
 </div>
 
 ## Why nbdev?
